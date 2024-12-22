@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="userid">UserId</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+</resources>
